@@ -9,6 +9,8 @@ public class Practice {
 	public void sample()
 	{
 	System.out.println("Practicing");	
+	System.out.println("Git Practice");
+	
 	}
 	
 
