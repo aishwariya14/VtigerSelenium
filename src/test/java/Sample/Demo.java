@@ -2,7 +2,7 @@ package Sample;
 
 import org.testng.annotations.Test;
 
-public class demo {
+public class Demo {
 	@Test
 	public void demo() {
 		System.out.println("this is my second changes");
