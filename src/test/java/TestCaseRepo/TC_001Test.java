@@ -10,7 +10,7 @@ import objectRepo.CreatingNewLeadPage;
 import objectRepo.HomePage;
 import objectRepo.LeadsPage;
 //@Listeners(genericUtility.ListenersImplementation.class)
-public class TC_001 extends BaseClass{
+public class TC_001Test extends BaseClass{
 	
 	@Test(groups= {"Smoke"})
    public void leads_001() throws Exception
